@@ -42,6 +42,7 @@ So for this project setup, Gaussians are still the most reliable default.
 
 ## Repository Structure
 
+```text
 MNIST-Mixture-Models-Analysis/
 ├── data/                        # Preprocessed arrays + saved metrics
 ├── images/                      # Saved plots, confusion matrices, and comparison figures
@@ -52,6 +53,7 @@ MNIST-Mixture-Models-Analysis/
 ├── 5_StudentT_MM.ipynb          # Student-t mixture model
 ├── 6_Final_comparison.ipynb     # Cross-model comparison + final verdict
 └── README.md
+```
 
 ## Implementation Notes
 
